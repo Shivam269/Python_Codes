@@ -1,6 +1,6 @@
 file = open("1.txt","w")
 
-file.write("Swastika is dagebaj \n")
+file.write("Python is very easy laguege \n")
 
 file.close()
 
